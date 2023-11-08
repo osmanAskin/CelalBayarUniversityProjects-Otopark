@@ -1,0 +1,14 @@
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\bin\Debug\net7.0\Otopark Otomasyon Projesi.exe
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\bin\Debug\net7.0\Otopark Otomasyon Projesi.deps.json
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\bin\Debug\net7.0\Otopark Otomasyon Projesi.runtimeconfig.json
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\bin\Debug\net7.0\Otopark Otomasyon Projesi.dll
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\bin\Debug\net7.0\Otopark Otomasyon Projesi.pdb
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\Otopark Otomasyon Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\Otopark Otomasyon Projesi.AssemblyInfoInputs.cache
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\Otopark Otomasyon Projesi.AssemblyInfo.cs
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\Otopark Otomasyon Projesi.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\Otopark Otomasyon Projesi.dll
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\refint\Otopark Otomasyon Projesi.dll
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\Otopark Otomasyon Projesi.pdb
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\Otopark Otomasyon Projesi.genruntimeconfig.cache
+C:\Users\osman\source\repos\Otopark Otomasyon Projesi\obj\Debug\net7.0\ref\Otopark Otomasyon Projesi.dll
