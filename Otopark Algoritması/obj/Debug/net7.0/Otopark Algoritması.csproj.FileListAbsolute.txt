@@ -1,0 +1,14 @@
+C:\Users\osman\source\repos\Otopark Algoritması\bin\Debug\net7.0\Otopark Algoritması.exe
+C:\Users\osman\source\repos\Otopark Algoritması\bin\Debug\net7.0\Otopark Algoritması.deps.json
+C:\Users\osman\source\repos\Otopark Algoritması\bin\Debug\net7.0\Otopark Algoritması.runtimeconfig.json
+C:\Users\osman\source\repos\Otopark Algoritması\bin\Debug\net7.0\Otopark Algoritması.dll
+C:\Users\osman\source\repos\Otopark Algoritması\bin\Debug\net7.0\Otopark Algoritması.pdb
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\Otopark Algoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\Otopark Algoritması.AssemblyInfoInputs.cache
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\Otopark Algoritması.AssemblyInfo.cs
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\Otopark Algoritması.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\Otopark Algoritması.dll
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\refint\Otopark Algoritması.dll
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\Otopark Algoritması.pdb
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\Otopark Algoritması.genruntimeconfig.cache
+C:\Users\osman\source\repos\Otopark Algoritması\obj\Debug\net7.0\ref\Otopark Algoritması.dll
